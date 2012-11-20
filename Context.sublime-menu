@@ -1,0 +1,4 @@
+[
+	{ "caption": "-" },
+	{ "command": "tfs_checkout", "caption": "Checkout from TFS" }
+]
